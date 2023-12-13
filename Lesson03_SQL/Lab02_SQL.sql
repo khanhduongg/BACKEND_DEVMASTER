@@ -1,0 +1,97 @@
+﻿-- TẠO DATABASE
+CREATE DATABASE LAB02_DEVMASTER_SQL
+GO
+DROP DATABASE LAB02
+-- KHỞI TẠO BIẾN NAME GÁN GIÁ TRỊ VÀ IN RA
+-- Khai báo biến 
+USE master
+DECLARE @name VARCHAR(255) ='DUONGDUONG'
+-- In ra giá trị của biến
+SELECT @name AS 'TenNguoi';
+-- KHỞI TẠO BIẾN AGE GÁN GIÁ TRỊ VÀ IN RA
+DECLARE @age VARCHAR(255) ='20'
+-- In ra giá trị của biến
+SELECT @age AS 'Tuoi';
+
+--KHỞI TẠO BẢNG TÊN EMPLOYEE VỚI CÁC THÔNG TIN
+-- ID int Primary key
+-- FullName nvarchar(35)
+-- Gender bit,
+-- BrithDay datetime
+-- Address nvarchar(Max)
+-- Email varchar(50)
+-- Salary float
+
+USE LAB02_DEVMASTER_SQL
+GO
+CREATE TABLE EMPLOYEE
+(
+	ID INT CONSTRAINT PK_EMPLOYEE_ID PRIMARY KEY
+	,FullName nvarchar(35)
+	,Gender bit
+	,BrithDay datetime
+	,Address nvarchar(max)
+	,Email varchar(50)
+	,Salary float
+)
+GO
+-- THÊM CỘT  PHONE VARCHAR(20) CHO BẢNG EMPLOYEE
+
+ALTER TABLE EMPLOYEE
+ADD PHONE VARCHAR(20)
+GO
+
+INSERT EMPLOYEE(ID,FullName,Gender,BrithDay,Address,Email,Salary,PHONE)VALUES
+('001',N'NGUYỄN VĂN A',0,'1/12/2002',N'hà nội','AAA',3000,123456789)
+,('002',N'NGUYỄN VĂN B',0,'2/11/2002',N'phú thọ','BBB',1000,123456781)
+,('003',N'NGUYỄN VĂN C',1,'3/10/2002',N'nghệ an','CCC',2000,123456782)
+,('004',N'NGUYỄN VĂN D',1,'4/9/2002',N'hà nội','DDD',2500,123456783)
+,('005',N'NGUYỄN VĂN E',0,'5/8/2002',N'sơn la','EEE',1500,123456784)
+,('006',N'NGUYỄN VĂN F',0,'6/7/2002',N'hồ chí minh','FFF',1000,123456785)
+,('007',N'NGUYỄN VĂN G',0,'7/6/2002',N'thanh hóa','GGG',1200,123456786)
+,('008',N'NGUYỄN VĂN H',0,'8/5/2002',N'hà nội','HHH',1300,123456787)
+GO
+--ĐƯA RA TẤT CÁC NHÂN VIÊN TRONG CÔNG TY
+SELECT *FROM EMPLOYEE
+GO
+-- ĐƯA RA CÁC NHÂN VIÊN CÓ LƯƠNG LỚN HƠN>2000
+SELECT *FROM EMPLOYEE
+WHERE Salary >2000
+GO
+-- ĐƯA RA CÁC NHÂN VIÊN CÓ SINH NHẬT TRONG THÁNG NÀY
+SELECT * FROM EMPLOYEE
+WHERE MONTH(BrithDay) = MONTH(GETDATE()) AND DAY(BrithDay) = DAY(GETDATE());
+GO
+-- ĐƯA RA DANH SÁCH NHÂN VIÊN HIỂN THỊ KÈM THÊM CỘT TUỔI VÀ CỘT BRITHDAY
+SELECT FullName,BrithDay,
+DATEDIFF(YEAR,BrithDay,GETDATE())AS TUOI
+FROM EMPLOYEE
+GO
+-- ĐƯA RA NHỮNG NHÂN VIÊN CÓ ĐỊA CHỈ TẠI HÀ NỘI
+SELECT * FROM EMPLOYEE
+WHERE Address='hà nội'
+GO
+-- SỬA TÊN NHÂN VIÊN CÓ MÃ LÀ 001 THÀNH TÊN JOHN
+UPDATE EMPLOYEE 
+SET FullName='JOHN'
+WHERE ID =1
+-- XÓA NHỮNG NHÂN VIÊN CÓ TUỔI >50
+DELETE EMPLOYEE
+WHERE DATEDIFF(YEAR,BrithDay,GETDATE())>50
+GO
+-- COPY NHỮNG NHÂN  VIÊN CÓ TUỔI >50 SANG BẢNG MỚI
+CREATE TABLE NHANVIEN
+(
+TenNhanVien nvarchar(50)
+,NgaySinh datetime
+)
+GO
+INSERT INTO NHANVIEN (TenNhanVien, NgaySinh)
+SELECT FullName, BrithDay
+FROM EMPLOYEE
+WHERE DATEDIFF(YEAR, BrithDay, GETDATE()) > 50;
+GO
+-- ĐẾM SỐ NHÂN VIÊN TRONG BẢNG
+SELECT COUNT(*) AS SoLuongNhanVien
+FROM EMPLOYEE;
+GO

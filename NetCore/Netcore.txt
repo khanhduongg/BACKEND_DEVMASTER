@@ -1,0 +1,24 @@
+Phần backend
+- SQL
+- C# Net core (8b)
+	+Ngôn ngữ lập trình :
+		++ Cú Pháp 
+		++ Biến ,Hằng ,Kiểu dữ liệu,Toán tử,toán hạng
+		++ Biểu thức,câu lệnh,khối lệnh
+		++ I/0 - > console
+			+++ Lựa chọn/ rẽ nhánh : if ,switch
+			+++ Loop : for ,while,do...while,foreach,..
+			+++ Lệnh nhảy : break,continue,return,...
+		++ Mảng / ?
+		++ OOP(c#) class /object
+			++ Kế Thừa
+			++ Đóng Gói
+			++ Đa hình
+			++ Trừu tượng hóa
+		++ Collections / Generic
+		++ Exception
+		++ Thread
+		++ File
+- APSNetCore MVC (8b)
+- Web API (1-2b)
+- MockProject

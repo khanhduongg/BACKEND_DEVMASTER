@@ -1,0 +1,9 @@
+﻿OOP 
+ * Các tính chất của lập tình hướng đối tượng
+	+ Inheristance : (:)
+
+	+ Polymorphinsm : 
+
+	+ Abstraction :
+
+	+ Enscapsoltuion : Phạm vi sử dụng

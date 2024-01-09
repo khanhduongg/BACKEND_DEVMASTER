@@ -1,0 +1,15 @@
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\bin\Debug\net8.0\Lesson03_Lab04_5.exe
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\bin\Debug\net8.0\Lesson03_Lab04_5.deps.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\bin\Debug\net8.0\Lesson03_Lab04_5.runtimeconfig.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\bin\Debug\net8.0\Lesson03_Lab04_5.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\bin\Debug\net8.0\Lesson03_Lab04_5.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\obj\Debug\net8.0\Lesson03_Lab04_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\obj\Debug\net8.0\Lesson03_Lab04_5.AssemblyInfoInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\obj\Debug\net8.0\Lesson03_Lab04_5.AssemblyInfo.cs
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\obj\Debug\net8.0\Lesson03_Lab04_5.csproj.CoreCompileInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\obj\Debug\net8.0\Lesson03_Lab04_5.sourcelink.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\obj\Debug\net8.0\Lesson03_Lab04_5.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\obj\Debug\net8.0\refint\Lesson03_Lab04_5.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\obj\Debug\net8.0\Lesson03_Lab04_5.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\obj\Debug\net8.0\Lesson03_Lab04_5.genruntimeconfig.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson03\Lesson03\Lesson03_Lab04_5\obj\Debug\net8.0\ref\Lesson03_Lab04_5.dll

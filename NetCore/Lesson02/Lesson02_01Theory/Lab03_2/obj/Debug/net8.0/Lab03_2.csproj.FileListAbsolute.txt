@@ -1,0 +1,15 @@
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\bin\Debug\net8.0\Lab03_2.exe
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\bin\Debug\net8.0\Lab03_2.deps.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\bin\Debug\net8.0\Lab03_2.runtimeconfig.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\bin\Debug\net8.0\Lab03_2.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\bin\Debug\net8.0\Lab03_2.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\obj\Debug\net8.0\Lab03_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\obj\Debug\net8.0\Lab03_2.AssemblyInfoInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\obj\Debug\net8.0\Lab03_2.AssemblyInfo.cs
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\obj\Debug\net8.0\Lab03_2.csproj.CoreCompileInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\obj\Debug\net8.0\Lab03_2.sourcelink.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\obj\Debug\net8.0\Lab03_2.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\obj\Debug\net8.0\refint\Lab03_2.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\obj\Debug\net8.0\Lab03_2.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\obj\Debug\net8.0\Lab03_2.genruntimeconfig.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson02\Lesson02_01Theory\Lab03_2\obj\Debug\net8.0\ref\Lab03_2.dll

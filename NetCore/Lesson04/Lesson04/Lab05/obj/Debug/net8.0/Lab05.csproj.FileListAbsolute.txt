@@ -1,0 +1,15 @@
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\bin\Debug\net8.0\Lab05.exe
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\bin\Debug\net8.0\Lab05.deps.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\bin\Debug\net8.0\Lab05.runtimeconfig.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\bin\Debug\net8.0\Lab05.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\bin\Debug\net8.0\Lab05.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\obj\Debug\net8.0\Lab05.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\obj\Debug\net8.0\Lab05.AssemblyInfoInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\obj\Debug\net8.0\Lab05.AssemblyInfo.cs
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\obj\Debug\net8.0\Lab05.csproj.CoreCompileInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\obj\Debug\net8.0\Lab05.sourcelink.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\obj\Debug\net8.0\Lab05.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\obj\Debug\net8.0\refint\Lab05.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\obj\Debug\net8.0\Lab05.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\obj\Debug\net8.0\Lab05.genruntimeconfig.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson04\Lesson04\Lab05\obj\Debug\net8.0\ref\Lab05.dll

@@ -1,0 +1,15 @@
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\bin\Debug\net8.0\Lesson05_ListDemo.exe
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\bin\Debug\net8.0\Lesson05_ListDemo.deps.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\bin\Debug\net8.0\Lesson05_ListDemo.runtimeconfig.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\bin\Debug\net8.0\Lesson05_ListDemo.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\bin\Debug\net8.0\Lesson05_ListDemo.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.AssemblyInfoInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.AssemblyInfo.cs
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.csproj.CoreCompileInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.sourcelink.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\obj\Debug\net8.0\refint\Lesson05_ListDemo.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.genruntimeconfig.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_ListDemo\obj\Debug\net8.0\ref\Lesson05_ListDemo.dll

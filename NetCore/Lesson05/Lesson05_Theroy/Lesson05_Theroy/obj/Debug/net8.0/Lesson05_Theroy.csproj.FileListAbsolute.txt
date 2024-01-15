@@ -1,0 +1,15 @@
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\bin\Debug\net8.0\Lesson05_Theroy.exe
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\bin\Debug\net8.0\Lesson05_Theroy.deps.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\bin\Debug\net8.0\Lesson05_Theroy.runtimeconfig.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\bin\Debug\net8.0\Lesson05_Theroy.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\bin\Debug\net8.0\Lesson05_Theroy.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\obj\Debug\net8.0\Lesson05_Theroy.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\obj\Debug\net8.0\Lesson05_Theroy.AssemblyInfoInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\obj\Debug\net8.0\Lesson05_Theroy.AssemblyInfo.cs
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\obj\Debug\net8.0\Lesson05_Theroy.csproj.CoreCompileInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\obj\Debug\net8.0\Lesson05_Theroy.sourcelink.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\obj\Debug\net8.0\Lesson05_Theroy.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\obj\Debug\net8.0\refint\Lesson05_Theroy.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\obj\Debug\net8.0\Lesson05_Theroy.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\obj\Debug\net8.0\Lesson05_Theroy.genruntimeconfig.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Theroy\obj\Debug\net8.0\ref\Lesson05_Theroy.dll

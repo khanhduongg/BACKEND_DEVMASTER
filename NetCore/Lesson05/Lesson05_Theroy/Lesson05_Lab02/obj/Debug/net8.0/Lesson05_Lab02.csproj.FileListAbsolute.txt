@@ -1,0 +1,15 @@
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\bin\Debug\net8.0\Lesson05_Lab02.exe
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\bin\Debug\net8.0\Lesson05_Lab02.deps.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\bin\Debug\net8.0\Lesson05_Lab02.runtimeconfig.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\bin\Debug\net8.0\Lesson05_Lab02.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\bin\Debug\net8.0\Lesson05_Lab02.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\obj\Debug\net8.0\Lesson05_Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\obj\Debug\net8.0\Lesson05_Lab02.AssemblyInfoInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\obj\Debug\net8.0\Lesson05_Lab02.AssemblyInfo.cs
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\obj\Debug\net8.0\Lesson05_Lab02.csproj.CoreCompileInputs.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\obj\Debug\net8.0\Lesson05_Lab02.sourcelink.json
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\obj\Debug\net8.0\Lesson05_Lab02.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\obj\Debug\net8.0\refint\Lesson05_Lab02.dll
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\obj\Debug\net8.0\Lesson05_Lab02.pdb
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\obj\Debug\net8.0\Lesson05_Lab02.genruntimeconfig.cache
+D:\BACKEND_DEVMASTER\NetCore\Lesson05\Lesson05_Theroy\Lesson05_Lab02\obj\Debug\net8.0\ref\Lesson05_Lab02.dll

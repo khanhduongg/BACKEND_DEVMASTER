@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Lesson03_Lab01.Models.Book>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Danh sách các cuấn sách</h1>
+<from action="" method ="POST" class=" form-inline" role="form">
+    <div class=" form-group" >
+        <select name="AuthorId" class="form-control" asp-items="@ViewBag.authors">
+            <option value="">Chọn tác giả</option>
+        </select>
+        <select name="AuthorId" class="form-control" asp-items="@ViewBag.genres">
+            <option value="">Chọn thể loại</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Tìm Kiếm</button>
+    <a asp-action="Create" class="btn btn-danger">Thêm Mới</a>
+    <hr />
+    <table class=" table table-bordered">
+        <thead>
+            <th>Id</th>
+            <th>Tiêu Đề</th>
+            <th>Tác Giả</th>
+            <th>Thể Loại</th>
+            <th>Giá</th>
+            <th>Hình Ảnh</th>
+            <th></th>
+        </thead>
+        <tbody>
+            @foreach( var book in Model)
+            {
+                <tr>
+                    <td>@book.Id</td>
+                    <td>@book.Title</td>
+                    <td>@book.AuthorId</td>
+                    <td>@book.GenerId</td>
+                    <td>@book.Price</td>
+                    <td>
+                        <img src="@book.Image" alt="@book.Title" width="60px"/>
+                    </td>
+                    <td>
+                       <a asp-action="Edit" asp-route-id="@book.Id" class="btn tbn-sm btn-primary">Sửa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</from> 
+

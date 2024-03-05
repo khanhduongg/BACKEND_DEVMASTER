@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|d:\\backend_devmaster\\asp netcore\\lesson04\\lesson04\\lesson04\\controllers\\member1controlle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|solutionrelative:lesson04\\controllers\\member1controlle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|d:\\backend_devmaster\\asp netcore\\lesson04\\lesson04\\lesson04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|solutionrelative:lesson04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|d:\\backend_devmaster\\asp netcore\\lesson04\\lesson04\\lesson04\\views\\member1controlle1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|solutionrelative:lesson04\\views\\member1controlle1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|d:\\backend_devmaster\\asp netcore\\lesson04\\lesson04\\lesson04\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|solutionrelative:lesson04\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|d:\\backend_devmaster\\asp netcore\\lesson04\\lesson04\\lesson04\\views\\member\\getlistmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|solutionrelative:lesson04\\views\\member\\getlistmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|d:\\backend_devmaster\\asp netcore\\lesson04\\lesson04\\lesson04\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|solutionrelative:lesson04\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|d:\\backend_devmaster\\asp netcore\\lesson04\\lesson04\\lesson04\\views\\member\\listmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|solutionrelative:lesson04\\views\\member\\listmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|d:\\backend_devmaster\\asp netcore\\lesson04\\lesson04\\lesson04\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3317D6-964C-4AF6-A513-AAC2570159F8}|Lesson04\\Lesson04.csproj|solutionrelative:lesson04\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Views\\Member1Controlle1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson04\\Views\\Member1Controlle1\\Index.cshtml",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Views\\Member1Controlle1\\Index.cshtml",
+              "RelativeToolTip": "Lesson04\\Views\\Member1Controlle1\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:38:01.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member1Controlle.cs",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Controllers\\Member1Controlle.cs",
+              "RelativeDocumentMoniker": "Lesson04\\Controllers\\Member1Controlle.cs",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Controllers\\Member1Controlle.cs",
+              "RelativeToolTip": "Lesson04\\Controllers\\Member1Controlle.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:33:56.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lesson04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lesson04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:30:51.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lesson04\\Views\\Member\\Create.cshtml",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "Lesson04\\Views\\Member\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:30:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListModel.cshtml",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Views\\Member\\ListModel.cshtml",
+              "RelativeDocumentMoniker": "Lesson04\\Views\\Member\\ListModel.cshtml",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Views\\Member\\ListModel.cshtml",
+              "RelativeToolTip": "Lesson04\\Views\\Member\\ListModel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:22:55.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetListMember.cshtml",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Views\\Member\\GetListMember.cshtml",
+              "RelativeDocumentMoniker": "Lesson04\\Views\\Member\\GetListMember.cshtml",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Views\\Member\\GetListMember.cshtml",
+              "RelativeToolTip": "Lesson04\\Views\\Member\\GetListMember.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:11:04.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Lesson04\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Lesson04\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:20:28.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Models\\DataModels\\Member.cs",
+              "RelativeDocumentMoniker": "Lesson04\\Models\\DataModels\\Member.cs",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson04\\Lesson04\\Lesson04\\Models\\DataModels\\Member.cs",
+              "RelativeToolTip": "Lesson04\\Models\\DataModels\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:18:00.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

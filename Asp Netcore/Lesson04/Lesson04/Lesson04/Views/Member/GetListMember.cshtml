@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "GetListMember";
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Member Id</th>
+            <th>FullName</th>
+            <th>UserName</th>
+            <th>Password</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.ListMember)
+        {
+            <tr>
+                <td>@item.MemberId</td>
+                <td>@item.FullName</td>
+                <td>@item.UserName</td>
+                <td>@item.Password</td>
+                <td>@item.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

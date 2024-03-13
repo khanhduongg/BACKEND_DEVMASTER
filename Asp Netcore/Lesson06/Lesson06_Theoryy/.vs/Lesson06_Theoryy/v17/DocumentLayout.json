@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theoryy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E4F3522-0EA4-4E66-B277-4CF2B797AAEB}|..\\Lesson06_Theroy_01\\Lesson06_Theroy_01.csproj|d:\\backend_devmaster\\asp netcore\\lesson06\\lesson06_theroy_01\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E4F3522-0EA4-4E66-B277-4CF2B797AAEB}|..\\Lesson06_Theroy_01\\Lesson06_Theroy_01.csproj|d:\\backend_devmaster\\asp netcore\\lesson06\\lesson06_theroy_01\\models\\bookmanagementcontext\\bookmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -10,12 +13,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E4F3522-0EA4-4E66-B277-4CF2B797AAEB}|..\\Lesson06_Theroy_01\\Lesson06_Theroy_01.csproj|d:\\backend_devmaster\\asp netcore\\lesson06\\lesson06_theroy_01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E4F3522-0EA4-4E66-B277-4CF2B797AAEB}|..\\Lesson06_Theroy_01\\Lesson06_Theroy_01.csproj|d:\\backend_devmaster\\asp netcore\\lesson06\\lesson06_theroy_01\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E4F3522-0EA4-4E66-B277-4CF2B797AAEB}|..\\Lesson06_Theroy_01\\Lesson06_Theroy_01.csproj|d:\\backend_devmaster\\asp netcore\\lesson06\\lesson06_theroy_01\\lesson06_theroy_01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E4F3522-0EA4-4E66-B277-4CF2B797AAEB}|..\\Lesson06_Theroy_01\\Lesson06_Theroy_01.csproj|d:\\backend_devmaster\\asp netcore\\lesson06\\lesson06_theroy_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -49,79 +46,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240311140649_v1.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Migrations\\20240311140649_v1.cs",
-              "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\Migrations\\20240311140649_v1.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Migrations\\20240311140649_v1.cs",
-              "RelativeToolTip": "..\\Lesson06_Theroy_01\\Migrations\\20240311140649_v1.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T14:06:49.207Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lesson06_Theroy_01",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Lesson06_Theroy_01.csproj",
-              "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\Lesson06_Theroy_01.csproj",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Lesson06_Theroy_01.csproj",
-              "RelativeToolTip": "..\\Lesson06_Theroy_01\\Lesson06_Theroy_01.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-12T03:41:31.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\appsettings.Development.json",
               "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\appsettings.Development.json",
               "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\appsettings.Development.json",
               "RelativeToolTip": "..\\Lesson06_Theroy_01\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-11T14:16:35.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\appsettings.json",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\appsettings.json",
-              "RelativeToolTip": "..\\Lesson06_Theroy_01\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-11T14:05:32.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\Program.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Program.cs",
-              "RelativeToolTip": "..\\Lesson06_Theroy_01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T13:29:33.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookManagementContext.cs",
               "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Models\\BookManagementContext\\BookManagementContext.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\Models\\BookManagementContext\\BookManagementContext.cs",
@@ -134,7 +80,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "20240311140649_v1.cs",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Migrations\\20240311140649_v1.cs",
+              "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\Migrations\\20240311140649_v1.cs",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Migrations\\20240311140649_v1.cs",
+              "RelativeToolTip": "..\\Lesson06_Theroy_01\\Migrations\\20240311140649_v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:06:49.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\appsettings.json",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\appsettings.json",
+              "RelativeToolTip": "..\\Lesson06_Theroy_01\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T14:05:32.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\Program.cs",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Program.cs",
+              "RelativeToolTip": "..\\Lesson06_Theroy_01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T13:29:33.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Publisher.cs",
               "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Models\\DataModels\\Publisher.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\Models\\DataModels\\Publisher.cs",
@@ -146,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Models\\DataModels\\Book.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\Models\\DataModels\\Book.cs",
@@ -158,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theroy_01\\Models\\DataModels\\Category.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_Theroy_01\\Models\\DataModels\\Category.cs",
@@ -170,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "BooksController.cs",
               "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theoryy\\Lesson06_Theoryy\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Lesson06_Theoryy\\Controllers\\BooksController.cs",
@@ -182,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theoryy\\Lesson06_Theoryy\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Lesson06_Theoryy\\Controllers\\CategoriesController.cs",
@@ -194,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "BachKhoaStoreContext.cs",
               "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson06\\Lesson06_Theoryy\\Lesson06_Theoryy\\Models\\BachKhoaStoreContext.cs",
               "RelativeDocumentMoniker": "Lesson06_Theoryy\\Models\\BachKhoaStoreContext.cs",

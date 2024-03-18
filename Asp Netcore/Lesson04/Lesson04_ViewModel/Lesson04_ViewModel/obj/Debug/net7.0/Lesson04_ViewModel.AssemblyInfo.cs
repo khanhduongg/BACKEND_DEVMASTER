@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson04_ViewModel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4833850a29bf7a3c9ff52457848eef680bf49e06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6e72187b6aee2feec1bc20414e0bb6d137cc593")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson04_ViewModel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson04_ViewModel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

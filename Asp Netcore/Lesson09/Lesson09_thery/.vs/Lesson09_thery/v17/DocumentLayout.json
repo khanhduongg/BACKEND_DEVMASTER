@@ -7,132 +7,16 @@
       "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\lesson09_thery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\lesson09_thery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\shared\\_contentheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\shared\\_contentheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\views\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\views\\shared\\_layoutadmin.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\models\\acounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\models\\acounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\models\\oderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\models\\oderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\models\\cutstomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\models\\cutstomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\migrations\\20240320115614_update-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\migrations\\20240320115614_update-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|d:\\backend_devmaster\\asp netcore\\lesson09\\lesson09_thery\\lesson09_thery\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BD1616-E0F3-4A46-859A-7DF2533C3EA3}|Lesson09_thery\\Lesson09_thery.csproj|solutionrelative:lesson09_thery\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lesson09_thery",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Lesson09_thery.csproj",
+              "RelativeDocumentMoniker": "Lesson09_thery\\Lesson09_thery.csproj",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Lesson09_thery.csproj",
+              "RelativeToolTip": "Lesson09_thery\\Lesson09_thery.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T16:04:19.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -156,425 +53,35 @@
               "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Controllers\\CategoriesController.cs",
               "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAwAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T15:23:27.111Z",
+              "WhenOpened": "2024-03-26T16:00:28.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Lesson09_thery",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Lesson09_thery.csproj",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Lesson09_thery.csproj",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Lesson09_thery.csproj",
-              "RelativeToolTip": "Lesson09_thery\\Lesson09_thery.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-24T14:51:59.321Z",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:50:50.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFEAAAA7AAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABYAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T12:27:13.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Navbar.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_Navbar.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_Navbar.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_Navbar.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_Navbar.cshtml",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T12:27:16.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T13:25:21.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Sidebar.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_Sidebar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T12:27:18.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T13:20:07.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T12:38:33.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T12:38:34.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Program.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Program.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Program.cs",
-              "RelativeToolTip": "Lesson09_thery\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:49:17.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T13:25:14.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ContentHeader.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_ContentHeader.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_ContentHeader.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_ContentHeader.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_ContentHeader.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T12:38:29.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T13:25:22.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T12:41:53.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T12:41:52.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\appsettings.json",
-              "RelativeDocumentMoniker": "Lesson09_thery\\appsettings.json",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\appsettings.json",
-              "RelativeToolTip": "Lesson09_thery\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-20T11:49:27.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Lesson09_thery\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Lesson09_thery\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-20T13:26:02.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T13:08:29.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T13:08:30.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T13:20:00.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Lesson09_thery\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T12:41:27.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_LayoutAdmin.cshtml.css",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml.css",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml.css",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml.css",
-              "RelativeToolTip": "Lesson09_thery\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-20T12:27:14.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Acounts.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Acounts.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Models\\Acounts.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Acounts.cs",
-              "RelativeToolTip": "Lesson09_thery\\Models\\Acounts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:35:46.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Models\\AppDbContext.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Lesson09_thery\\Models\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:46:27.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Lesson09_thery\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Lesson09_thery\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-20T12:02:32.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "20240320115614_Update-Database.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Migrations\\20240320115614_Update-Database.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Migrations\\20240320115614_Update-Database.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Migrations\\20240320115614_Update-Database.cs",
-              "RelativeToolTip": "Lesson09_thery\\Migrations\\20240320115614_Update-Database.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:56:14.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Orders.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Models\\Orders.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Orders.cs",
-              "RelativeToolTip": "Lesson09_thery\\Models\\Orders.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:41:41.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "OderDetail.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\OderDetail.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Models\\OderDetail.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\OderDetail.cs",
-              "RelativeToolTip": "Lesson09_thery\\Models\\OderDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:43:20.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Models\\Product.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Product.cs",
-              "RelativeToolTip": "Lesson09_thery\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:40:55.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Models\\Category.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Category.cs",
-              "RelativeToolTip": "Lesson09_thery\\Models\\Category.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:40:13.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Blog.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Models\\Blog.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Blog.cs",
-              "RelativeToolTip": "Lesson09_thery\\Models\\Blog.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:39:53.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Banner.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Banner.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Models\\Banner.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Banner.cs",
-              "RelativeToolTip": "Lesson09_thery\\Models\\Banner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:38:36.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Cutstomer.cs",
-              "DocumentMoniker": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Cutstomer.cs",
-              "RelativeDocumentMoniker": "Lesson09_thery\\Models\\Cutstomer.cs",
-              "ToolTip": "D:\\BACKEND_DEVMASTER\\Asp Netcore\\Lesson09\\Lesson09_thery\\Lesson09_thery\\Models\\Cutstomer.cs",
-              "RelativeToolTip": "Lesson09_thery\\Models\\Cutstomer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T11:37:20.369Z",
+              "WhenOpened": "2024-03-26T15:44:58.656Z",
               "EditorCaption": ""
             }
           ]
